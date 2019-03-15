@@ -1,6 +1,6 @@
 # Spryker Feature: Inventory Management
 
-Stock & Availability Management, Multiple Warehouse Stock Management
+The Inventory Management implies Stock & Availability Management as well as Multiple Warehouse Stock Management for products.
 
 ## Installation
 
