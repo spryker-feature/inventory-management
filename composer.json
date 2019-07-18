@@ -7,7 +7,6 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.1",
-    "spryker-feature/product": "^201907.0",
     "spryker-shop/availability-widget": "^1.1.0",
     "spryker/availability": "^8.0.0",
     "spryker/availability-data-feed": "^0.1.3",
