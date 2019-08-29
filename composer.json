@@ -12,7 +12,8 @@
     "spryker/availability-data-feed": "^0.1.3",
     "spryker/availability-gui": "^5.0.0",
     "spryker/availability-storage": "^1.5.0",
-    "spryker/stock": "^7.0.0"
+    "spryker/stock": "^7.0.0",
+    "spryker/stock-gui": "^1.0.0"
   },
   "extra": {
     "branch-alias": {
