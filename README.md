@@ -14,10 +14,10 @@ composer require spryker-feature/inventory-management
 If you don't include the feature dependencies, make sure you use the respective modules instead.
 
 ## Optional modules
-- [AvailabilityCartConnector ^7.0.0](https://github.com/spryker/availability-cart-connector) (Connector)
+- [AvailabilityCartConnector ^7.1.0](https://github.com/spryker/availability-cart-connector) (Connector)
 - [AvailabilityExtension ^1.0.0](https://github.com/spryker/availability-extension) (Extension)
 - [AvailabilityGuiExtension ^1.0.0](https://github.com/spryker/availability-gui-extension) (Extension)
 - [AvailabilityOfferConnector ^4.0.0](https://github.com/spryker/availability-offer-connector) (Connector)
 - [AvailabilityStorageExtension ^1.0.0](https://github.com/spryker/availability-storage-extension) (Extension)
-- [ProductAvailabilitiesRestApi ^4.0.0](https://github.com/spryker/product-availabilities-rest-api) (Glue)
+- [ProductAvailabilitiesRestApi ^4.1.0](https://github.com/spryker/product-availabilities-rest-api) (Glue)
 - [StockExtension ^1.0.0](https://github.com/spryker/stock-extension) (Extension)
