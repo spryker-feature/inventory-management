@@ -12,7 +12,7 @@
     "spryker/availability-gui": "^3.0.2",
     "spryker/availability-storage": "^1.1.0",
     "spryker/product-availabilities-rest-api": "^1.0.1",
-    "spryker/stock": "^5.0.2"
+    "spryker/stock": "^5.0.2 || ^7.0.0"
   },
   "suggest": {
     "spryker-feature/product": "Recommended feature dependency."
