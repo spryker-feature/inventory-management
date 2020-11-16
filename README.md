@@ -15,6 +15,7 @@ If you don't include the feature dependencies, make sure you use the respective 
 
 ## Optional modules
 - [AvailabilityCartConnector ^7.1.0](https://github.com/spryker/availability-cart-connector) (Connector)
+- [AvailabilityCartConnectorExtension ^1.0.0](https://github.com/spryker/availability-cart-connector-extension) (Extension)
 - [AvailabilityExtension ^1.0.0](https://github.com/spryker/availability-extension) (Extension)
 - [AvailabilityGuiExtension ^1.0.0](https://github.com/spryker/availability-gui-extension) (Extension)
 - [AvailabilityOfferConnector ^4.0.0](https://github.com/spryker/availability-offer-connector) (Connector)
