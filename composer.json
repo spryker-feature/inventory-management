@@ -13,6 +13,8 @@
     "spryker/availability-gui": "^6.3.0",
     "spryker/availability-storage": "^2.4.0",
     "spryker/stock": "^8.0.0",
+    "spryker/stock-address": "^1.0.0",
+    "spryker/stock-address-data-import": "^0.1.0",
     "spryker/stock-data-import": "^1.1.0",
     "spryker/stock-gui": "^2.0.0"
   },
