@@ -1,29 +1,29 @@
 {
-  "name": "spryker-feature/inventory-management",
-  "description": "Inventory Management [feature]",
-  "type": "metapackage",
-  "license": "proprietary",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
-  "require": {
-    "php": ">=7.3",
-    "spryker-shop/availability-widget": "^1.1.0",
-    "spryker/availability": "^9.4.0",
-    "spryker/availability-data-feed": "^0.1.3",
-    "spryker/availability-gui": "^6.3.0",
-    "spryker/availability-storage": "^2.4.0",
-    "spryker/stock": "^8.0.0",
-    "spryker/stock-address": "^1.0.0",
-    "spryker/stock-address-data-import": "^0.1.0",
-    "spryker/stock-data-import": "^1.1.0",
-    "spryker/stock-gui": "^2.0.0"
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "202107.x-dev"
+    "name": "spryker-feature/inventory-management",
+    "description": "Inventory Management [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.3",
+        "spryker-shop/availability-widget": "^1.1.0",
+        "spryker/availability": "^9.12.0",
+        "spryker/availability-data-feed": "^0.1.3",
+        "spryker/availability-gui": "^6.6.0",
+        "spryker/availability-storage": "^2.5.0",
+        "spryker/stock": "^8.3.0",
+        "spryker/stock-address": "^1.0.0",
+        "spryker/stock-address-data-import": "^0.1.0",
+        "spryker/stock-data-import": "^1.2.0",
+        "spryker/stock-gui": "^2.0.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202108.x-dev"
+        }
+    },
+    "suggest": {
+        "spryker-feature/product": "Recommended feature dependency."
     }
-  },
-  "suggest": {
-    "spryker-feature/product": "Recommended feature dependency."
-  }
 }
