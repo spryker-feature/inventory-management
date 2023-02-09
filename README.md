@@ -22,3 +22,4 @@ If you don't include the feature dependencies, make sure you use the respective 
 - [AvailabilityStorageExtension ^1.0.0](https://github.com/spryker/availability-storage-extension) (Extension)
 - [ProductAvailabilitiesRestApi ^4.2.0](https://github.com/spryker/product-availabilities-rest-api) (Glue)
 - [StockExtension ^1.1.0](https://github.com/spryker/stock-extension) (Extension)
+- [WarehouseAllocationExtension ^0.1.0](https://github.com/spryker/warehouse-allocation-extension) (Extension)
