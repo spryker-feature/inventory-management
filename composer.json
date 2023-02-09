@@ -16,7 +16,8 @@
         "spryker/stock-address": "^1.0.0",
         "spryker/stock-address-data-import": "^0.1.0",
         "spryker/stock-data-import": "^1.2.0",
-        "spryker/stock-gui": "^2.1.0"
+        "spryker/stock-gui": "^2.1.0",
+        "spryker/warehouse-allocation": "^0.1.0"
     },
     "extra": {
         "branch-alias": {
