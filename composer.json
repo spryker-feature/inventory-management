@@ -12,6 +12,7 @@
         "spryker/availability-data-feed": "^0.1.3",
         "spryker/availability-gui": "^6.7.0",
         "spryker/availability-storage": "^2.7.0",
+        "spryker/oauth-warehouse": "^0.1.0",
         "spryker/stock": "^8.4.0",
         "spryker/stock-address": "^1.0.0",
         "spryker/stock-address-data-import": "^0.1.0",
