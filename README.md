@@ -24,3 +24,4 @@ If you don't include the feature dependencies, make sure you use the respective 
 - [StockExtension ^1.1.0](https://github.com/spryker/stock-extension) (Extension)
 - [WarehouseAllocationExtension ^0.1.0](https://github.com/spryker/warehouse-allocation-extension) (Extension)
 - [WarehouseOauthBackendApi ^0.1.0](https://github.com/spryker/warehouse-oauth-backend-api) (Glue Backend)
+- [WarehousesBackendApi ^0.1.0](https://github.com/spryker/warehouses-backend-api) (Glue Backend)
