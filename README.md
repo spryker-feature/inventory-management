@@ -2,6 +2,8 @@
 
 The Inventory Management implies Stock & Availability Management as well as Multiple Warehouse Stock Management for products.
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/warehouse-management-system/202307.0/base-shop/inventory-management-feature-overview.html)
+
 ## Installation
 
 ```
