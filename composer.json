@@ -7,10 +7,10 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.2",
-        "spryker-shop/availability-widget": "^1.1.0",
-        "spryker/availability": "^9.23.0",
+        "spryker-shop/availability-widget": "^1.2.0",
+        "spryker/availability": "^9.29.0",
         "spryker/availability-data-feed": "^0.1.3",
-        "spryker/availability-gui": "^6.10.0",
+        "spryker/availability-gui": "^6.11.0",
         "spryker/availability-storage": "^2.8.0",
         "spryker/oauth-warehouse": "^1.1.0",
         "spryker/stock": "^8.9.0",
