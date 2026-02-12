@@ -22,6 +22,7 @@ If you don't include the feature dependencies, make sure you use the respective 
 - [AvailabilityGuiExtension ^1.0.0](https://github.com/spryker/availability-gui-extension) (Extension)
 - [AvailabilityOfferConnector ^4.0.0](https://github.com/spryker/availability-offer-connector) (Connector)
 - [AvailabilityStorageExtension ^1.0.0](https://github.com/spryker/availability-storage-extension) (Extension)
+- [Shop.AvailabilityWidgetExtension ^1.0.0](https://github.com/spryker-shop/availability-widget-extension) (Extension)
 - [ProductAvailabilitiesRestApi ^4.3.0](https://github.com/spryker/product-availabilities-rest-api) (Legacy Glue)
 - [StockExtension ^1.1.0](https://github.com/spryker/stock-extension) (Extension)
 - [WarehouseAllocationExtension ^1.0.0](https://github.com/spryker/warehouse-allocation-extension) (Extension)
